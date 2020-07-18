@@ -4,12 +4,12 @@ Created on Wed May 20 01:05:53 2020
 
 @author: ASUS
 """
-import cv2
+#import cv2
 import streamlit as st
 import numpy as np 
 from PIL import Image
 
-
+'''
 def cartoonization (img, cartoon):
 
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY) 
@@ -100,3 +100,4 @@ else:
     
     st.image(cartoon, use_column_width=True)
 
+'''
