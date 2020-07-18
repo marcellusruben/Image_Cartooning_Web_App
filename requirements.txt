@@ -1,2 +1,2 @@
 numpy
-streamlit
+streamlit==0.63.0
