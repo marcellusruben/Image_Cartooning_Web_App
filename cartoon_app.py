@@ -6,8 +6,8 @@ Created on Wed May 20 01:05:53 2020
 """
 #import cv2
 import streamlit as st
-import numpy as np 
-from PIL import Image
+#import numpy as np 
+#from PIL import Image
 
 '''
 def cartoonization (img, cartoon):
