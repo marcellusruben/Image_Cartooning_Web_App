@@ -1,2 +1,5 @@
-streamlit==0.63.0
-pillow
+streamlit==0.63
+pandas==1.0.5
+numpy==1.19
+scikit-learn==0.22
+matplotlib==3.2.2
