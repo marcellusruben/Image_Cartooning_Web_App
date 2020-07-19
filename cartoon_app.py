@@ -100,4 +100,3 @@ else:
     
     st.image(cartoon, use_column_width=True)
 
-
